@@ -1,0 +1,10 @@
+/data/raw
+vrf.pkl
+/log
+/.ipynb_checkpoints
+/.vscode
+/models
+*.pyc
+__pycache__
+.ipynb_checkpoints
+results/lstmtrain
