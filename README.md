@@ -3,7 +3,7 @@
 clone the repository
 
 ```
-git clone https://github.com/AvisekNaug/CDC2020.git
+git clone https://github.com/AvisekNaug/labproj1.git
 
 ```
 
